@@ -1,0 +1,108 @@
+Overall Accuracy: 0.8025
+
+                             precision    recall  f1-score   support
+
+               Barn Swallow     0.9286    0.7222    0.8125        18
+       Bay breasted Warbler     0.8333    0.8333    0.8333        18
+    Black and white Warbler     0.9333    0.7778    0.8485        18
+        Black billed Cuckoo     0.7619    0.8889    0.8205        18
+Black throated Blue Warbler     0.8889    0.8889    0.8889        18
+     Black throated Sparrow     0.7619    0.8889    0.8205        18
+              Blue Grosbeak     0.8667    0.7222    0.7879        18
+                   Blue Jay     0.8667    0.7222    0.7879        18
+                   Bobolink     0.8824    0.8333    0.8571        18
+           Bohemian Waxwing     0.7500    0.6667    0.7059        18
+            Bronzed Cowbird     0.8571    1.0000    0.9231        18
+              Brown Creeper     0.6000    0.8333    0.6977        18
+              Brown Pelican     0.8667    0.7222    0.7879        18
+             Brown Thrasher     0.7222    0.7222    0.7222        18
+             Canada Warbler     0.7647    0.7222    0.7429        18
+       Cape Glossy Starling     0.8889    0.8889    0.8889        18
+           Cape May Warbler     1.0000    0.6667    0.8000        18
+                   Cardinal     0.8421    0.8889    0.8649        18
+              Carolina Wren     0.7647    0.7222    0.7429        18
+               Caspian Tern     0.7619    0.8889    0.8205        18
+              Cedar Waxwing     0.7895    0.8333    0.8108        18
+           Cerulean Warbler     0.7391    0.9444    0.8293        18
+           Chuck will Widow     0.6818    0.8333    0.7500        18
+           Clark Nutcracker     0.9412    0.8889    0.9143        18
+        Common Yellowthroat     0.8889    0.8889    0.8889        18
+                Eared Grebe     0.8235    0.7778    0.8000        18
+             Eastern Towhee     1.0000    0.7222    0.8387        18
+         European Goldfinch     0.9375    0.8333    0.8824        18
+           Evening Grosbeak     1.0000    0.7778    0.8750        18
+              Forsters Tern     0.8125    0.7222    0.7647        18
+                Fox Sparrow     0.8125    0.7222    0.7647        18
+                  Geococcyx     0.8750    0.7778    0.8235        18
+      Golden winged Warbler     1.0000    0.8333    0.9091        18
+              Gray Kingbird     0.6875    0.6111    0.6471        18
+    Gray crowned Rosy Finch     0.8462    0.6111    0.7097        18
+                  Green Jay     0.9412    0.8889    0.9143        18
+            Green Violetear     0.8333    0.8333    0.8333        18
+        Green tailed Towhee     0.8000    0.8889    0.8421        18
+             Harris Sparrow     0.7222    0.7222    0.7222        18
+              Heermann Gull     1.0000    0.9444    0.9714        18
+           Hooded Merganser     0.8750    0.7778    0.8235        18
+              Hooded Oriole     0.9375    0.8333    0.8824        18
+             Hooded Warbler     0.7647    0.7222    0.7429        18
+               Horned Grebe     0.7500    0.6667    0.7059        18
+                Horned Lark     0.8947    0.9444    0.9189        18
+              Horned Puffin     0.7778    0.7778    0.7778        18
+                 Ivory Gull     0.9412    0.8889    0.9143        18
+             Lazuli Bunting     1.0000    0.8889    0.9412        18
+           Le Conte Sparrow     0.6842    0.7222    0.7027        18
+               Least Auklet     0.6842    0.8667    0.7647        15
+          Loggerhead Shrike     0.6190    0.7222    0.6667        18
+           Magnolia Warbler     0.8125    0.7222    0.7647        18
+                    Mallard     0.9000    1.0000    0.9474        18
+             Myrtle Warbler     0.7500    1.0000    0.8571        18
+          Nashville Warbler     0.6250    0.8333    0.7143        18
+Nelson Sharp tailed Sparrow     0.6087    0.7778    0.6829        18
+                  Nighthawk     0.7647    0.7222    0.7429        18
+                   Ovenbird     0.7500    0.6667    0.7059        18
+               Pacific Loon     0.6250    0.8333    0.7143        18
+            Painted Bunting     1.0000    0.7778    0.8750        18
+               Palm Warbler     0.8667    0.7222    0.7879        18
+            Parakeet Auklet     0.9444    1.0000    0.9714        17
+            Pied Kingfisher     0.7368    0.7778    0.7568        18
+          Pied billed Grebe     0.9286    0.7222    0.8125        18
+              Pine Grosbeak     0.7778    0.7778    0.7778        18
+               Pine Warbler     0.7059    0.6667    0.6857        18
+            Prairie Warbler     0.7143    0.8333    0.7692        18
+       Prothonotary Warbler     0.9000    1.0000    0.9474        18
+               Purple Finch     0.7895    0.8333    0.8108        18
+     Red bellied Woodpecker     0.9412    0.8889    0.9143        18
+    Red cockaded Woodpecker     0.6667    0.6667    0.6667        18
+             Red eyed Vireo     0.7500    0.6667    0.7059        18
+       Red winged Blackbird     1.0000    0.9444    0.9714        18
+          Rhinoceros Auklet     0.6190    0.8125    0.7027        16
+     Rose breasted Grosbeak     1.0000    0.8333    0.9091        18
+  Ruby throated Hummingbird     0.6500    0.7222    0.6842        18
+         Rufous Hummingbird     0.7143    0.8333    0.7692        18
+           Savannah Sparrow     0.6316    0.6667    0.6486        18
+                   Sayornis     0.6364    0.7778    0.7000        18
+            Scarlet Tanager     0.8235    0.7778    0.8000        18
+  Scissor tailed Flycatcher     0.6087    0.7778    0.6829        18
+            Spotted Catbird     0.7500    1.0000    0.8571        15
+             Summer Tanager     0.8421    0.8889    0.8649        18
+               Tree Swallow     0.6875    0.6111    0.6471        18
+          Tropical Kingbird     1.0000    0.8333    0.9091        18
+       Vermilion Flycatcher     0.8824    0.8333    0.8571        18
+             Vesper Sparrow     0.6111    0.6111    0.6111        18
+             Warbling Vireo     0.7000    0.7778    0.7368        18
+         Western Meadowlark     0.8824    0.8333    0.8571        18
+         Western Wood Pewee     0.8667    0.7222    0.7879        18
+             Whip poor Will     0.5652    0.8125    0.6667        16
+              White Pelican     0.8235    0.8750    0.8485        16
+  White breasted Kingfisher     1.0000    0.9444    0.9714        18
+    White breasted Nuthatch     0.8421    0.8889    0.8649        18
+      White crowned Sparrow     1.0000    0.8889    0.9412        18
+     White throated Sparrow     1.0000    0.6667    0.8000        18
+             Yellow Warbler     0.7895    0.8333    0.8108        18
+       Yellow breasted Chat     0.8571    0.6667    0.7500        18
+    Yellow headed Blackbird     0.9444    0.9444    0.9444        18
+      Yellow throated Vireo     0.6364    0.7778    0.7000        18
+
+                   accuracy                         0.8025      1787
+                  macro avg     0.8152    0.8031    0.8039      1787
+               weighted avg     0.8160    0.8025    0.8040      1787
